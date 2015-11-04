@@ -8,7 +8,7 @@ The length of lines are distances between factors.
 # One combined examples case
   This [example](https://github.com/Alexzhibin/Social_Network_Analysis/blob/master/Stanford_University/Combine_all.R) combine most the functions we need to use, and I take e96 as one example to analyze.  
   ```
-  good!
+  More details and function will be updated. Contact me if there is some suggestions!
   ```
   
 
